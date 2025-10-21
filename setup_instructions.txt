@@ -1,0 +1,7 @@
+ultralytics==8.2.0
+streamlit
+pillow
+pandas
+numpy
+requests
+matplotlib
